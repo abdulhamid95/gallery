@@ -1,0 +1,29 @@
+.home_page_photo {
+
+    width: 200px;
+    height: 150px !important;
+}
+
+.responsive_img {
+    width: 400px !important;
+
+    height: auto !important;
+
+    text-align: center;
+}
+
+
+/*********** Home Page Pagination **************/
+
+.pager .active a{
+
+    background-color: black !important;
+    color: blanchedalmond !important;
+
+}
+.pager .active a:hover{
+
+    background-color: black !important;
+    color: blanchedalmond !important;
+
+}
